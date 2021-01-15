@@ -17,4 +17,6 @@ Our results found that the latent model approach performs the best while the nei
       Then to predict a user’s rating for a certain item, we take the inner product.   
      
 ## Results    
-      ![alt text](https://github.com/TiffanySirui/Music_Recommendation/blob/results/ROC_Neighborhood_method.png?raw=true)
+  The top 10 recommended songs based on the popularity  
+[](url)
+<img width="465" alt="Top10_based_on_popularity" src="https://user-images.githubusercontent.com/32999889/104678731-161f7c00-56ba-11eb-8187-a8443f5ccc12.png">
